@@ -7,6 +7,9 @@ const Layout = ({ children }) => {
         <div className="layout">
             <Head>
                 <title>Swayamshu Swain</title>
+                <link href="http://fonts.cdnfonts.com/css/montserrat" rel="stylesheet"/>
+                <link href="http://fonts.cdnfonts.com/css/avone" rel="stylesheet"/>
+                <link href="http://fonts.cdnfonts.com/css/proxima-nova" rel="stylesheet"/>
             </Head>
 
             <header>
